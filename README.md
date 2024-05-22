@@ -1,8 +1,6 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
-# 12 SQL: Employee Tracker
-
-# Note-Taker
+# E-commerce
 This is Day Challenge 11
 # Description
 What was my motivation?
@@ -10,11 +8,11 @@ My motivation was learning how to build an E-Commerce back end using Node. It he
 Why did you build this project?
 I built this project to understand how to use node.js.
 What problems does it solve?
-The problem it opens is that you have to use the paths to route you are the website.
+The problem it opens is that you have to use the paths to route you to the website.
 What did I learn?
 I learned how to use Insomnia, and how to make Get, Post, Put, DeL
 What makes your project stand out?
-My project stands out because it shows how users can access all routes and you can update everything and delete them as well.
+My project stands out because it shows how users can access all routes, and you can update and delete everything as well.
 
 # Installation
 What I did was open git labs, and I made a git clone of the challenges I had to do into a separate folder, which I then made into my Challenges folder. 
